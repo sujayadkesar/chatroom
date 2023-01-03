@@ -9,7 +9,7 @@ get_host_ip = socket.gethostbyname(hostname)
 print(f"[*] Connection id : {get_host_ip}")
 
 host = get_host_ip
-port = 45454
+port = 443
 
 # starting server
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
