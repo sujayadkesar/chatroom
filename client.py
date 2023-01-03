@@ -9,7 +9,7 @@ get_connection_ip = input("Enter the target server ip : ")
 connection_ip = get_connection_ip
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client.connect((f'{connection_ip}', 45454))
+client.connect((f'{connection_ip}', 443))
 
 
 # listening to server and sending nicknames
