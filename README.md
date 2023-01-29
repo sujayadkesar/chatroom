@@ -3,6 +3,10 @@
 
 A client-server based chatroom application built using Python 🐍, that allows users to communicate in real-time through multiple chat rooms. The application offers a terminal-based interface, which makes it easy to use and navigate. The chatroom can be run on a local network or remotely, making it accessible from anywhere.
 
+![giphy](https://user-images.githubusercontent.com/95465072/215329290-99857929-58d2-44a7-80f7-92809164c038.gif)
+
+
+
 ## Features
 
 -   User registration and authentication
